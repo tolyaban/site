@@ -207,7 +207,10 @@ footer .container  {
 		width: 80%;
 		padding: 0 10% ;
 	}
-
+	.item img {
+		margin-top: 20px; 
+		width: 100%;
+	}
 	
 
 h3 {
